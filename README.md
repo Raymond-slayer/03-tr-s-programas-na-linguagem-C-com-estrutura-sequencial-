@@ -9,7 +9,7 @@ Este repositório contém **3 exercícios simples** desenvolvidos em linguagem C
 ├── exercicio2.c
 ├── exercicio3.c
 
-## 📘 Descrição dos Exercícios
+ ##Descrição dos Exercícios
 
 Exercicio 1 - Soma de dois números
 Lê dois valores inteiros fornecidos pelo usuário, calcula e exibe a soma.
